@@ -3,6 +3,8 @@ import sys
 a = 0
 b = 1
 
+print("Beech leaf-mining weevil")
+
 output = f"{a}, {b}"
 
 try:
